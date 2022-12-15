@@ -62,5 +62,7 @@
 
 | Quest Name | Lab Name | Lab Code | Solution |
 | ------- | ------- | ---------- | -------- |
-| Create and Manage Cloud Resources |  [A Tour of Google Cloud Hands-on Labs](https://www.cloudskillsboost.google/focuses/2794?parent=cataloghttps://leetcode.com/problems/3sum-closest/)  | GSP282 | [Click here](https://www.youtube.com/watch?v=FO-g3bNDygQ) |
-| Create and Manage Cloud Resources |  [Creating a Virtual Machine](https://www.cloudskillsboost.google/focuses/2794?parent=cataloghttps://leetcode.com/problems/3sum-closest/)  | GSP001 | [Click here](https://www.youtube.com/watch?v=Co34im5mgGA) |
+| Create and Manage Cloud Resources |  [A Tour of Google Cloud Hands-on Labs](https://www.cloudskillsboost.google/focuses/2794?parent=catalog)  | GSP282 | [Click here](https://www.youtube.com/watch?v=FO-g3bNDygQ) |
+| Create and Manage Cloud Resources |  [Creating a Virtual Machine](https://www.cloudskillsboost.google/focuses/2794?parent=catalog)  | GSP001 | [Click here](https://www.youtube.com/watch?v=Co34im5mgGA) |
+| Create and Manage Cloud Resources |  [Getting Started with Cloud Shell and gcloud](https://www.cloudskillsboost.google/focuses/563?parent=catalog)  | GSP001 | [Click here](https://www.youtube.com/watch?v=bMVBLE4dJRk) |
+| Create and Manage Cloud Resources |  [Kubernetes Engine: Qwik Start](https://www.cloudskillsboost.google/focuses/878?parent=catalog)  | GSP100 | [Click here](https://www.youtube.com/watch?v=W15XgGTfHCQ) |
