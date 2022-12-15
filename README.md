@@ -54,8 +54,10 @@
 <h1 align="center">GCCP Pathway (Courses + Quests)
    <h3>Quests and their details -></h3>
    <a href="https://github.com/GDSC-TMSL/GCCP_Guide">
+   
    </a>
 </h1>
+<HR>
 <h2>
 
 | Quest Name | Lab Name | Lab Code | Solution |
