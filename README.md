@@ -1,24 +1,7 @@
-<div align="center">
-<a  href="https://github.com/GDSC-TMSL/GCCP_Guide">
-    <img width=15% height=15% src="https://avatars.githubusercontent.com/u/112573688?s=200&v=4"/>
-</a>
-<a href="https://github.com/GDSC-TMSL/GCCP_Guide">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Foundry&duration=1&width=500&pause=1000&color=E1F74A&center=true&vCenter=true&lines=Google+Developer+Student+Clubs+TMSL">
-    </a>
-<h1 align="center">GCCP Pathway (Courses + Quests)
-   <h3>Courses and their details -></h3>
-   <a href="https://github.com/GDSC-TMSL/GCCP_Guide">
+<h1>GCCP Pathway</h1>
 
-   </a>
-</h1>
+<h3 align=center><i>
 
-<hr>
-
-<h2>   
-
-<!--Edit below-->
-
-    
 | Course Name | Lab Name | Solution Link |
 | ------- | ------- | -------- |
 | Introductory Lab |  [A Tour of Google Cloud Hands-on Labs](https://www.cloudskillsboost.google/focuses/2794?parent=catalog)  | [Click here](https://www.youtube.com/watch?v=FO-g3bNDygQ) |
@@ -45,20 +28,13 @@
 | Getting Started with Google Kubernetes Engine |  [Creating Google Kubernetes Engine Deployments](https://www.cloudskillsboost.google/course_sessions/2125111/labs/347212)  | [Click here](https://www.youtube.com/watch?v=J2svfSdn4kE) |
 | Getting Started with Google Kubernetes Engine |  [Configuring Persistent Storage for Google Kubernetes Engine](https://www.cloudskillsboost.google/course_sessions/2125111/labs/347218)  | [Click here](https://www.youtube.com/watch?v=MaN_deRwrhs) |
 
-<br>
-</h2>
+</h3>
 
------------
-<br>
+<hr>
 
-<h1 align="center">GCCP Pathway (Courses + Quests)
-   <h3>Quests and their details -></h3>
-   <a href="https://github.com/GDSC-TMSL/GCCP_Guide">
-   
-   </a>
-</h1>
-<HR>
-<h2>
+# GCCP Pathway Labs
+
+<h3 align=center>
 
 | Quest Name | Lab Name | Lab Code | Solution |
 | ------- | ------- | ---------- | -------- |
@@ -81,3 +57,5 @@
 | Set Up and Configure a Cloud Environment in Google Cloudd |  [Cloud Monitoring: Qwik Start](https://www.cloudskillsboost.google/focuses/10599?parent=catalog)  | GSP089 | [Click here](https://www.youtube.com/watch?v=tx8I0N6F40E) |
 | Set Up and Configure a Cloud Environment in Google Cloudd |  [Managing Deployments Using Kubernetes Engine](https://www.cloudskillsboost.google/focuses/639?parent=catalog)  | GSP053 | [Click here](https://www.youtube.com/watch?v=ugaVutkxpQs) |
 | Set Up and Configure a Cloud Environment in Google Cloudd |  [Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab](https://www.cloudskillsboost.google/focuses/10603?parent=catalog)  | GSP321 | [Click here](https://www.youtube.com/watch?v=Rpy6MpoJJtw) |
+
+</h3>
