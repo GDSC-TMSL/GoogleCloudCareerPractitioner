@@ -1,61 +1,255 @@
-<h1>GCCP Pathway</h1>
-
-<h3 align=center><i>
-
-| Course Name | Lab Name | Solution Link |
-| ------- | ------- | -------- |
-| Introductory Lab |  [A Tour of Google Cloud Hands-on Labs](https://www.cloudskillsboost.google/focuses/2794?parent=catalog)  | [Click here](https://www.youtube.com/watch?v=FO-g3bNDygQ) |
-| Google Cloud Fundamentals: Core Infrastructure |  [Google Cloud Fundamentals: Getting Started with Cloud Marketplace](https://www.cloudskillsboost.google/course_sessions/2081674/labs/343134) | [Click here](https://www.youtube.com/watch?v=SMUZwJCua1g) |
-| Google Cloud Fundamentals: Core Infrastructure |  [Getting Started with VPC Networking and Google Compute Engine](https://www.cloudskillsboost.google/course_sessions/2081674/labs/343143)  | [Click here](https://www.youtube.com/watch?v=B7snePp_pAs) |
-| Google Cloud Fundamentals: Core Infrastructure |  [Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL](https://www.cloudskillsboost.google/course_sessions/2081674/labs/343153)  | [Click here](https://www.youtube.com/watch?v=4cgUdsWdKIo) |
-| Google Cloud Fundamentals: Core Infrastructure |  [Google Cloud Fundamentals: Getting Started with GKE](https://www.cloudskillsboost.google/course_sessions/2081674/labs/343160)  | [Click here](https://www.youtube.com/watch?v=RbYHTITpmXk) |
-| Google Cloud Fundamentals: Core Infrastructure |  [Hello Cloud Run [APPRUN]](https://www.cloudskillsboost.google/course_sessions/2081674/labs/343166)  | [Click here](https://www.youtube.com/watch?v=6v8Y2aA6V3g) |
-| Essential Google Cloud Infrastructure: Foundation |  [Working with the Google Cloud Console and Cloud Shell](https://www.cloudskillsboost.google/course_sessions/2084292/labs/341188)  | [Click here](https://www.youtube.com/watch?v=7NYIf53R-lg) |
-| Essential Google Cloud Infrastructure: Foundation |  [Infrastructure Preview](https://www.cloudskillsboost.google/course_sessions/2084292/labs/341191)  | [Click here](https://www.youtube.com/watch?v=_VTDejU2kGY) |
-| Essential Google Cloud Infrastructure: Foundation |  [VPC Networking](https://www.cloudskillsboost.google/course_sessions/2084292/labs/341207)  | [Click here](https://www.youtube.com/watch?v=2qSUTrdEnbo) |
-| Essential Google Cloud Infrastructure: Foundation |  [Implement Private Google Access and Cloud NAT](https://www.cloudskillsboost.google/course_sessions/2084292/labs/341211)  | [Click here](https://www.youtube.com/watch?v=z_GSbRsfMGY) |
-| Essential Google Cloud Infrastructure: Foundation |  [Creating Virtual Machines](https://www.cloudskillsboost.google/course_sessions/2084292/labs/341220)  | [Click here](https://www.youtube.com/watch?v=nUnMfamKL24) |
-| Essential Google Cloud Infrastructure: Foundation |  [Working with Virtual Machines](https://www.cloudskillsboost.google/course_sessions/2084292/labs/341229)  | [Click here](https://www.youtube.com/watch?v=t4XwZUSlhNk) |
-| Essential Google Cloud Infrastructure: Core Services |  [Exploring IAM](https://www.cloudskillsboost.google/course_sessions/2085284/labs/341131)  | [Click here](https://www.youtube.com/watch?v=7gED90C5By8) |
-| Essential Google Cloud Infrastructure: Core Services |  [Cloud Storage](https://www.cloudskillsboost.google/course_sessions/2085284/labs/341141)  | [Click here](https://www.youtube.com/watch?v=MfrTDHj2Xnc) |
-| Essential Google Cloud Infrastructure: Core Services |  [Implementing Cloud SQL](https://www.cloudskillsboost.google/course_sessions/2085284/labs/341145)  | [Click here](https://www.youtube.com/watch?v=2R94n-qWmYQ) |
-| Essential Google Cloud Infrastructure: Core Services |  [Examining Billing data with BigQuery](https://www.cloudskillsboost.google/course_sessions/2085284/labs/341160)  | [Click here](https://www.youtube.com/watch?v=6eUFzrQ2fCE) |
-| Essential Google Cloud Infrastructure: Core Services |  [Resource Monitoring](https://www.cloudskillsboost.google/course_sessions/2085284/labs/341168)  | [Click here](https://www.youtube.com/watch?v=SsDyri4G7DQ) |
-| Essential Google Cloud Infrastructure: Core Services |  [Error Reporting and Debugging](https://www.cloudskillsboost.google/course_sessions/2085284/labs/341175)  | [Click here](https://www.youtube.com/watch?v=Nk50SEvCSUs) |
-| Getting Started with Google Kubernetes Engine |  [Accessing the Google Cloud Console and Cloud Shell](https://www.cloudskillsboost.google/course_sessions/2125111/labs/347161)  | [Click here](https://www.youtube.com/watch?v=D_CRGMhkDs0) |
-| Getting Started with Google Kubernetes Engine |  [Working with Cloud Build](https://www.cloudskillsboost.google/course_sessions/2125111/labs/347171)  | [Click here](https://www.youtube.com/watch?v=6o0FJ5uEuK0) |
-| Getting Started with Google Kubernetes Engine |  [Deploying Google Kubernetes Engine](https://www.cloudskillsboost.google/course_sessions/2125111/labs/347194)  | [Click here](https://www.youtube.com/watch?v=Dp6JWMwLFME) |
-| Getting Started with Google Kubernetes Engine |  [Creating Google Kubernetes Engine Deployments](https://www.cloudskillsboost.google/course_sessions/2125111/labs/347212)  | [Click here](https://www.youtube.com/watch?v=J2svfSdn4kE) |
-| Getting Started with Google Kubernetes Engine |  [Configuring Persistent Storage for Google Kubernetes Engine](https://www.cloudskillsboost.google/course_sessions/2125111/labs/347218)  | [Click here](https://www.youtube.com/watch?v=MaN_deRwrhs) |
-
-</h3>
-
+<h1 id="gccp-pathway">GCCP Pathway</h1>
+<table>
+<thead>
+<tr>
+<th>Course Name</th>
+<th>Lab Name</th>
+<th>Solution Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Introductory Lab</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/2794?parent=catalog">A Tour of Google Cloud Hands-on Labs</a></td>
+<td><a href="https://www.youtube.com/watch?v=FO-g3bNDygQ">Click here</a></td>
+</tr>
+<tr>
+<td>Google Cloud Fundamentals: Core Infrastructure</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2081674/labs/343134">Google Cloud Fundamentals: Getting Started with Cloud Marketplace</a></td>
+<td><a href="https://www.youtube.com/watch?v=SMUZwJCua1g">Click here</a></td>
+</tr>
+<tr>
+<td>Google Cloud Fundamentals: Core Infrastructure</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2081674/labs/343143">Getting Started with VPC Networking and Google Compute Engine</a></td>
+<td><a href="https://www.youtube.com/watch?v=B7snePp_pAs">Click here</a></td>
+</tr>
+<tr>
+<td>Google Cloud Fundamentals: Core Infrastructure</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2081674/labs/343153">Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL</a></td>
+<td><a href="https://www.youtube.com/watch?v=4cgUdsWdKIo">Click here</a></td>
+</tr>
+<tr>
+<td>Google Cloud Fundamentals: Core Infrastructure</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2081674/labs/343160">Google Cloud Fundamentals: Getting Started with GKE</a></td>
+<td><a href="https://www.youtube.com/watch?v=RbYHTITpmXk">Click here</a></td>
+</tr>
+<tr>
+<td>Google Cloud Fundamentals: Core Infrastructure</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2081674/labs/343166">Hello Cloud Run [APPRUN]</a></td>
+<td><a href="https://www.youtube.com/watch?v=6v8Y2aA6V3g">Click here</a></td>
+</tr>
+<tr>
+<td>Essential Google Cloud Infrastructure: Foundation</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2084292/labs/341188">Working with the Google Cloud Console and Cloud Shell</a></td>
+<td><a href="https://www.youtube.com/watch?v=7NYIf53R-lg">Click here</a></td>
+</tr>
+<tr>
+<td>Essential Google Cloud Infrastructure: Foundation</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2084292/labs/341191">Infrastructure Preview</a></td>
+<td><a href="https://www.youtube.com/watch?v=_VTDejU2kGY">Click here</a></td>
+</tr>
+<tr>
+<td>Essential Google Cloud Infrastructure: Foundation</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2084292/labs/341207">VPC Networking</a></td>
+<td><a href="https://www.youtube.com/watch?v=2qSUTrdEnbo">Click here</a></td>
+</tr>
+<tr>
+<td>Essential Google Cloud Infrastructure: Foundation</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2084292/labs/341211">Implement Private Google Access and Cloud NAT</a></td>
+<td><a href="https://www.youtube.com/watch?v=z_GSbRsfMGY">Click here</a></td>
+</tr>
+<tr>
+<td>Essential Google Cloud Infrastructure: Foundation</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2084292/labs/341220">Creating Virtual Machines</a></td>
+<td><a href="https://www.youtube.com/watch?v=nUnMfamKL24">Click here</a></td>
+</tr>
+<tr>
+<td>Essential Google Cloud Infrastructure: Foundation</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2084292/labs/341229">Working with Virtual Machines</a></td>
+<td><a href="https://www.youtube.com/watch?v=t4XwZUSlhNk">Click here</a></td>
+</tr>
+<tr>
+<td>Essential Google Cloud Infrastructure: Core Services</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2085284/labs/341131">Exploring IAM</a></td>
+<td><a href="https://www.youtube.com/watch?v=7gED90C5By8">Click here</a></td>
+</tr>
+<tr>
+<td>Essential Google Cloud Infrastructure: Core Services</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2085284/labs/341141">Cloud Storage</a></td>
+<td><a href="https://www.youtube.com/watch?v=MfrTDHj2Xnc">Click here</a></td>
+</tr>
+<tr>
+<td>Essential Google Cloud Infrastructure: Core Services</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2085284/labs/341145">Implementing Cloud SQL</a></td>
+<td><a href="https://www.youtube.com/watch?v=2R94n-qWmYQ">Click here</a></td>
+</tr>
+<tr>
+<td>Essential Google Cloud Infrastructure: Core Services</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2085284/labs/341160">Examining Billing data with BigQuery</a></td>
+<td><a href="https://www.youtube.com/watch?v=6eUFzrQ2fCE">Click here</a></td>
+</tr>
+<tr>
+<td>Essential Google Cloud Infrastructure: Core Services</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2085284/labs/341168">Resource Monitoring</a></td>
+<td><a href="https://www.youtube.com/watch?v=SsDyri4G7DQ">Click here</a></td>
+</tr>
+<tr>
+<td>Essential Google Cloud Infrastructure: Core Services</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2085284/labs/341175">Error Reporting and Debugging</a></td>
+<td><a href="https://www.youtube.com/watch?v=Nk50SEvCSUs">Click here</a></td>
+</tr>
+<tr>
+<td>Getting Started with Google Kubernetes Engine</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2125111/labs/347161">Accessing the Google Cloud Console and Cloud Shell</a></td>
+<td><a href="https://www.youtube.com/watch?v=D_CRGMhkDs0">Click here</a></td>
+</tr>
+<tr>
+<td>Getting Started with Google Kubernetes Engine</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2125111/labs/347171">Working with Cloud Build</a></td>
+<td><a href="https://www.youtube.com/watch?v=6o0FJ5uEuK0">Click here</a></td>
+</tr>
+<tr>
+<td>Getting Started with Google Kubernetes Engine</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2125111/labs/347194">Deploying Google Kubernetes Engine</a></td>
+<td><a href="https://www.youtube.com/watch?v=Dp6JWMwLFME">Click here</a></td>
+</tr>
+<tr>
+<td>Getting Started with Google Kubernetes Engine</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2125111/labs/347212">Creating Google Kubernetes Engine Deployments</a></td>
+<td><a href="https://www.youtube.com/watch?v=J2svfSdn4kE">Click here</a></td>
+</tr>
+<tr>
+<td>Getting Started with Google Kubernetes Engine</td>
+<td><a href="https://www.cloudskillsboost.google/course_sessions/2125111/labs/347218">Configuring Persistent Storage for Google Kubernetes Engine</a></td>
+<td><a href="https://www.youtube.com/watch?v=MaN_deRwrhs">Click here</a></td>
+</tr>
+</tbody>
+</table>
 <hr>
-
-# GCCP Pathway Labs
-
-<h3 align=center>
-
-| Quest Name | Lab Name | Lab Code | Solution |
-| ------- | ------- | ---------- | -------- |
-| Create and Manage Cloud Resources |  [A Tour of Google Cloud Hands-on Labs](https://www.cloudskillsboost.google/focuses/2794?parent=catalog)  | GSP282 | [Click here](https://www.youtube.com/watch?v=FO-g3bNDygQ) |
-| Create and Manage Cloud Resources |  [Creating a Virtual Machine](https://www.cloudskillsboost.google/focuses/2794?parent=catalog)  | GSP001 | [Click here](https://www.youtube.com/watch?v=Co34im5mgGA) |
-| Create and Manage Cloud Resources |  [Getting Started with Cloud Shell and gcloud](https://www.cloudskillsboost.google/focuses/563?parent=catalog)  | GSP001 | [Click here](https://www.youtube.com/watch?v=bMVBLE4dJRk) |
-| Create and Manage Cloud Resources |  [Kubernetes Engine: Qwik Start](https://www.cloudskillsboost.google/focuses/878?parent=catalog)  | GSP100 | [Click here](https://www.youtube.com/watch?v=W15XgGTfHCQ) |
-| Create and Manage Cloud Resources |  [Set Up Network and HTTP Load Balancers](https://www.cloudskillsboost.google/focuses/12007?parent=catalog)  | GSP100 | [Click here](https://www.youtube.com/watch?v=dqXzfAZFJeE) |
-| Create and Manage Cloud Resources |  [Create and Manage Cloud Resources: Challenge Lab](https://www.cloudskillsboost.google/focuses/10258?parent=catalog)  | GSP100 | [Click here](https://www.youtube.com/watch?v=2pNTwtxGsF8) |
-| Perform Foundational Infrastructure Tasks in Google Cloud |  [Cloud Storage: Qwik Start - CLI/SDK](https://www.cloudskillsboost.google/focuses/569?parent=catalog)  | GSP074 | [Click here](https://www.youtube.com/watch?v=KssbHsCGcYk) |
-| Perform Foundational Infrastructure Tasks in Google Cloud |  [Cloud IAM: Qwik Start](https://www.cloudskillsboost.google/focuses/44159?parent=catalog)  | GSP064 | [Click here](https://www.youtube.com/watch?v=jbW70MdoeXI) |
-| Perform Foundational Infrastructure Tasks in Google Cloud |  [Cloud Monitoring: Qwik Start](https://www.cloudskillsboost.google/focuses/10599?parent=catalog)  | GSP089 | [Click here](https://www.youtube.com/watch?v=tx8I0N6F40E) |
-| Perform Foundational Infrastructure Tasks in Google Cloud |  [Cloud Functions: Qwik Start - Command Line](https://www.cloudskillsboost.google/focuses/916?parent=catalog)  | GSP089 | [Click here](https://www.youtube.com/watch?v=Ws_g8yCcbAk) |
-| Perform Foundational Infrastructure Tasks in Google Cloud |  [Google Cloud Pub/Sub: Qwik Start - Command Line](https://www.cloudskillsboost.google/focuses/925?parent=catalog)  | GSP095 | [Click here](https://www.youtube.com/watch?v=preHAbiidGM) |
-| Perform Foundational Infrastructure Tasks in Google Cloud |  [Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab](https://www.cloudskillsboost.google/focuses/10379?parent=catalog)  | GSP315 | [Click here](https://www.youtube.com/watch?v=V8BK-FDiyXI) |
-| Set Up and Configure a Cloud Environment in Google Cloud |  [Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab](https://www.cloudskillsboost.google/focuses/10379?parent=catalog)  | GSP315 | [Click here](https://www.youtube.com/watch?v=V8BK-FDiyXI) |
-| Set Up and Configure a Cloud Environment in Google Cloud |  [Cloud IAM: Qwik Start](https://www.cloudskillsboost.google/focuses/44159?parent=catalog)  | GSP064 | [Click here](https://www.youtube.com/watch?v=jbW70MdoeXI) |
-| Set Up and Configure a Cloud Environment in Google Cloud |  [Introduction to SQL for BigQuery and Cloud SQL](https://www.cloudskillsboost.google/focuses/2802?parent=catalog)  | GSP281 | [Click here](https://www.youtube.com/watch?v=gqxQxIpD6Ao) |
-| Set Up and Configure a Cloud Environment in Google Cloud |  [Multiple VPC Networks](https://www.cloudskillsboost.google/focuses/1230?parent=catalog)  | GSP281 | [Click here](https://www.youtube.com/watch?v=kktqpsHpPls) |
-| Set Up and Configure a Cloud Environment in Google Cloudd |  [Cloud Monitoring: Qwik Start](https://www.cloudskillsboost.google/focuses/10599?parent=catalog)  | GSP089 | [Click here](https://www.youtube.com/watch?v=tx8I0N6F40E) |
-| Set Up and Configure a Cloud Environment in Google Cloudd |  [Managing Deployments Using Kubernetes Engine](https://www.cloudskillsboost.google/focuses/639?parent=catalog)  | GSP053 | [Click here](https://www.youtube.com/watch?v=ugaVutkxpQs) |
-| Set Up and Configure a Cloud Environment in Google Cloudd |  [Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab](https://www.cloudskillsboost.google/focuses/10603?parent=catalog)  | GSP321 | [Click here](https://www.youtube.com/watch?v=Rpy6MpoJJtw) |
-
-</h3>
+<h1 id="gccp-pathway-labs">GCCP Pathway Labs</h1>
+<table>
+<thead>
+<tr>
+<th>Quest Name</th>
+<th>Lab Name</th>
+<th>Lab Code</th>
+<th>Solution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Create and Manage Cloud Resources</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/2794?parent=catalog">A Tour of Google Cloud Hands-on Labs</a></td>
+<td>GSP282</td>
+<td><a href="https://www.youtube.com/watch?v=FO-g3bNDygQ">Click here</a></td>
+</tr>
+<tr>
+<td>Create and Manage Cloud Resources</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/2794?parent=catalog">Creating a Virtual Machine</a></td>
+<td>GSP001</td>
+<td><a href="https://www.youtube.com/watch?v=Co34im5mgGA">Click here</a></td>
+</tr>
+<tr>
+<td>Create and Manage Cloud Resources</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/563?parent=catalog">Getting Started with Cloud Shell and gcloud</a></td>
+<td>GSP001</td>
+<td><a href="https://www.youtube.com/watch?v=bMVBLE4dJRk">Click here</a></td>
+</tr>
+<tr>
+<td>Create and Manage Cloud Resources</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/878?parent=catalog">Kubernetes Engine: Qwik Start</a></td>
+<td>GSP100</td>
+<td><a href="https://www.youtube.com/watch?v=W15XgGTfHCQ">Click here</a></td>
+</tr>
+<tr>
+<td>Create and Manage Cloud Resources</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/12007?parent=catalog">Set Up Network and HTTP Load Balancers</a></td>
+<td>GSP100</td>
+<td><a href="https://www.youtube.com/watch?v=dqXzfAZFJeE">Click here</a></td>
+</tr>
+<tr>
+<td>Create and Manage Cloud Resources</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/10258?parent=catalog">Create and Manage Cloud Resources: Challenge Lab</a></td>
+<td>GSP100</td>
+<td><a href="https://www.youtube.com/watch?v=2pNTwtxGsF8">Click here</a></td>
+</tr>
+<tr>
+<td>Perform Foundational Infrastructure Tasks in Google Cloud</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/569?parent=catalog">Cloud Storage: Qwik Start - CLI/SDK</a></td>
+<td>GSP074</td>
+<td><a href="https://www.youtube.com/watch?v=KssbHsCGcYk">Click here</a></td>
+</tr>
+<tr>
+<td>Perform Foundational Infrastructure Tasks in Google Cloud</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/44159?parent=catalog">Cloud IAM: Qwik Start</a></td>
+<td>GSP064</td>
+<td><a href="https://www.youtube.com/watch?v=jbW70MdoeXI">Click here</a></td>
+</tr>
+<tr>
+<td>Perform Foundational Infrastructure Tasks in Google Cloud</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/10599?parent=catalog">Cloud Monitoring: Qwik Start</a></td>
+<td>GSP089</td>
+<td><a href="https://www.youtube.com/watch?v=tx8I0N6F40E">Click here</a></td>
+</tr>
+<tr>
+<td>Perform Foundational Infrastructure Tasks in Google Cloud</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/916?parent=catalog">Cloud Functions: Qwik Start - Command Line</a></td>
+<td>GSP089</td>
+<td><a href="https://www.youtube.com/watch?v=Ws_g8yCcbAk">Click here</a></td>
+</tr>
+<tr>
+<td>Perform Foundational Infrastructure Tasks in Google Cloud</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/925?parent=catalog">Google Cloud Pub/Sub: Qwik Start - Command Line</a></td>
+<td>GSP095</td>
+<td><a href="https://www.youtube.com/watch?v=preHAbiidGM">Click here</a></td>
+</tr>
+<tr>
+<td>Perform Foundational Infrastructure Tasks in Google Cloud</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/10379?parent=catalog">Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab</a></td>
+<td>GSP315</td>
+<td><a href="https://www.youtube.com/watch?v=V8BK-FDiyXI">Click here</a></td>
+</tr>
+<tr>
+<td>Set Up and Configure a Cloud Environment in Google Cloud</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/10379?parent=catalog">Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab</a></td>
+<td>GSP315</td>
+<td><a href="https://www.youtube.com/watch?v=V8BK-FDiyXI">Click here</a></td>
+</tr>
+<tr>
+<td>Set Up and Configure a Cloud Environment in Google Cloud</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/44159?parent=catalog">Cloud IAM: Qwik Start</a></td>
+<td>GSP064</td>
+<td><a href="https://www.youtube.com/watch?v=jbW70MdoeXI">Click here</a></td>
+</tr>
+<tr>
+<td>Set Up and Configure a Cloud Environment in Google Cloud</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/2802?parent=catalog">Introduction to SQL for BigQuery and Cloud SQL</a></td>
+<td>GSP281</td>
+<td><a href="https://www.youtube.com/watch?v=gqxQxIpD6Ao">Click here</a></td>
+</tr>
+<tr>
+<td>Set Up and Configure a Cloud Environment in Google Cloud</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/1230?parent=catalog">Multiple VPC Networks</a></td>
+<td>GSP281</td>
+<td><a href="https://www.youtube.com/watch?v=kktqpsHpPls">Click here</a></td>
+</tr>
+<tr>
+<td>Set Up and Configure a Cloud Environment in Google Cloudd</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/10599?parent=catalog">Cloud Monitoring: Qwik Start</a></td>
+<td>GSP089</td>
+<td><a href="https://www.youtube.com/watch?v=tx8I0N6F40E">Click here</a></td>
+</tr>
+<tr>
+<td>Set Up and Configure a Cloud Environment in Google Cloudd</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/639?parent=catalog">Managing Deployments Using Kubernetes Engine</a></td>
+<td>GSP053</td>
+<td><a href="https://www.youtube.com/watch?v=ugaVutkxpQs">Click here</a></td>
+</tr>
+<tr>
+<td>Set Up and Configure a Cloud Environment in Google Cloudd</td>
+<td><a href="https://www.cloudskillsboost.google/focuses/10603?parent=catalog">Set Up and Configure a Cloud Environment in Google Cloud: Challenge Lab</a></td>
+<td>GSP321</td>
+<td><a href="https://www.youtube.com/watch?v=Rpy6MpoJJtw">Click here</a></td>
+</tr>
+</tbody>
+</table>
