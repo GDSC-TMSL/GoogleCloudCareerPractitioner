@@ -6,15 +6,39 @@
 <!-- REPOSITORY_STARS:START -->
 
 <!-- REPOSITORY_STARS:START
-Sayak Sen GUpta AIML
-Sreeja Biswas CSE
-Ankush iphone AIML
-Manali CSE
-Sayan AIML
+
+Aayush Bhardwaj
+Abhiraj Banerjee
+Adarsh Agrahari
+Aishee Dutta
+Aniket Banerjee 
+Aniruddha Chakraborty
+Ankan Chakraborty
+Anushka Chowdhury 
+Debanjan Bhattacharjee
+Manali Kundu
+Md Miran Jawed
+Md. Zaib Reyaz
+SOUMYA ADHIKARY
+Priyanshu Mondal
+Santanu Bera
+Santanu Pal
 Sattwikee Ghosh
-Anushka AIML
-Pranav
-Sreejita
-Abhiraj CSDS
-mohit
-urnisha sarkar
+Sayan Nandy
+Shantanu Saha
+Sayak SenGupta
+Spandan Bandhu
+Sreeja Biswas
+SREEJITA MUKHOPADHYAY
+Subham Roy
+Urnisha Sarkar
+Shamik Ghosh 
+Soumyata Sarkar 
+Siddhi Jalan
+Ankush Das
+Aditya Seth
+Sangsriti Sarkar
+Pratik Biswas
+Isha Choudhary 
+Pranav Prasad
+Mohit Kumar Khare
