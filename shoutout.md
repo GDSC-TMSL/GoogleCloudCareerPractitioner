@@ -10,35 +10,35 @@
 Aayush Bhardwaj
 Abhiraj Banerjee
 Adarsh Agrahari
+Aditya Seth
 Aishee Dutta
 Aniket Banerjee 
 Aniruddha Chakraborty
 Ankan Chakraborty
+Ankush Das
 Anushka Chowdhury 
 Debanjan Bhattacharjee
+Isha Choudhary 
 Manali Kundu
 Md Miran Jawed
 Md. Zaib Reyaz
-SOUMYA ADHIKARY
+Mohit Kumar Khare
+Pranav Prasad
+Pratik Biswas
 Priyanshu Mondal
+Sangsriti Sarkar
 Santanu Bera
 Santanu Pal
 Sattwikee Ghosh
-Sayan Nandy
-Shantanu Saha
 Sayak SenGupta
+Sayan Nandy
+Shamik Ghosh 
+Shantanu Saha
+Siddhi Jalan
+SOUMYA ADHIKARY
+Soumyata Sarkar 
 Spandan Bandhu
 Sreeja Biswas
 SREEJITA MUKHOPADHYAY
 Subham Roy
 Urnisha Sarkar
-Shamik Ghosh 
-Soumyata Sarkar 
-Siddhi Jalan
-Ankush Das
-Aditya Seth
-Sangsriti Sarkar
-Pratik Biswas
-Isha Choudhary 
-Pranav Prasad
-Mohit Kumar Khare
