@@ -25,7 +25,7 @@
 <td>Google Cloud Practitioner Pathway</td>
 <td><a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">Sabyasachi Seal</a></td>
 <td>December 2022 - January 2023</td>
-<td><a href="./GCCP/GCCP.md">Click here</a></td>
+<td><a href="./GCCP/README.md">Click here</a></td>
 <td><a href="./GCCP/Shout-out.md">Click here</a></td>
 </tr>
 
@@ -34,7 +34,7 @@
 <td><a href="https://adityaseth.me/linkedin">Aditya Seth</a></td>
 <td>August 2023 - September 2023</td>
 <td><a href="./GCCF/README.md">Click here</a></td>
-<td><a href="./GCCF/README.md">Click here</a></td>
+<td><a href="./GCCF/Shout-out.md">Click here</a></td>
 </tr>
 
 </tbody>
