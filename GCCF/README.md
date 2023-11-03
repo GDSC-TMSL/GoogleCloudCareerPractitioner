@@ -1,6 +1,8 @@
 ![](./GCCF.jpeg)
 
 <h1 id="gccf-pathway">Gen-AI Arcade Labs</h1>
+<h1 id="gccf-pathway"><a href="./Shout-out.md">Click me for the shout-out :D</a></h1>
+
 <table>
 <thead>
 <tr>

@@ -33,8 +33,8 @@
 <td>Google Cloud Computing Foundations</td>
 <td><a href="https://adityaseth.me/linkedin">Aditya Seth</a></td>
 <td>August 2023 - September 2023</td>
-<td><a href="./GCCF/GCCF.md">Click here</a></td>
-<td><a href="./GCCF/Shout-out.md">Click here</a></td>
+<td><a href="./GCCF/README.md">Click here</a></td>
+<td><a href="./GCCF/README.md">Click here</a></td>
 </tr>
 
 </tbody>
