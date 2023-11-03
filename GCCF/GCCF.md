@@ -12,7 +12,6 @@
 </thead>
 <tbody>
 
-
 <tr>
 <td>Gel with Gen AI!</td>
 <td><a href="https://www.cloudskillsboost.google/games/4422/labs/28603">APIs Explorer: Qwik Start</a></td>
@@ -20,14 +19,12 @@
 <td><a href="https://www.youtube.com/watch?v=FO-g3bNDygQ">Click here</a></td>
 </tr>
 
-
 <tr>
 <td>Gel with Gen AI!</td>
 <td><a href="https://www.cloudskillsboost.google/games/4422/labs/28604">Extract, Analyze, and Translate Text from Images with the Cloud ML APIs</a></td>
 <td>GSP075</td>
 <td><a href="https://www.youtube.com/watch?v=FO-g3bNDygQ">Click here</a></td>
 </tr>
-
 
 <tr>
 <td>Gel with Gen AI!</td>
@@ -78,8 +75,6 @@
 <td><a href="https://www.youtube.com/watch?v=FO-g3bNDygQ">Click here</a></td>
 </tr>
 
-
-
 <tr>
 
 </tbody>
@@ -110,14 +105,12 @@
 <td><a href="https://www.youtube.com/watch?v=bMVBLE4dJRk">Click here</a></td>
 </tr>
 
-
 <tr>
 <td>Google Cloud Computing Foundations: Cloud Computing Fundamentals</td>
 <td><a href="https://www.cloudskillsboost.google/course_sessions/4750861/labs/376198">Creating a Virtual Machine</a></td>
 <td>GSP001</td>
 <td><a href="https://www.youtube.com/watch?v=Co34im5mgGA">Click here</a></td>
 </tr>
-
 
 <tr>
 <td>Google Cloud Computing Foundations: Cloud Computing Fundamentals</td>
@@ -158,7 +151,6 @@ Quest 1 labs completed.
 <td><a href="https://www.youtube.com/watch?v=KssbHsCGcYk">Click here</a></td>
 </tr>
 
-
 <tr>
 <td>Google Cloud Computing Foundations: Infrastructure in Google Cloud</td>
 <td><a href="https://www.cloudskillsboost.google/course_sessions/4851657/labs/377271">Cloud Endpoints: Qwik Start</a></td>
@@ -198,7 +190,6 @@ Quest 2 labs completed.
 <td><a href="https://www.youtube.com/watch?v=jbW70MdoeXI">Click here</a></td>
 </tr>
 
-
 <tr>
 <td>Google Cloud Computing Foundations: Networking & Security in Google Cloud</td>
 <td><a href="https://www.cloudskillsboost.google/course_sessions/4881650/labs/377208">VPC Networks - Controlling Access</a></td>
@@ -212,7 +203,6 @@ Quest 2 labs completed.
 <td>GSP215</td>
 <td><a href="https://www.youtube.com/watch?v=jbW70MdoeXI">Click here</a></td>
 </tr>
-
 
 <tr>
 <td>Google Cloud Computing Foundations: Networking & Security in Google Cloud</td>
@@ -288,12 +278,9 @@ Quest 3 labs completed.
 <td><a href="https://www.youtube.com/watch?v=tx8I0N6F40E">Click here</a></td>
 </tr>
 
-
 <!--
 Quest 4 labs completed.
 !-->
-
-
 
 <tr>
 <td>Create and Manage Cloud Resources</td>
@@ -301,7 +288,6 @@ Quest 4 labs completed.
 <td>GSP282</td>
 <td><a href="https://www.youtube.com/watch?v=FO-g3bNDygQ">Click here</a></td>
 </tr>
-
 
 <tr>
 <td>Create and Manage Cloud Resources</td>
@@ -316,7 +302,6 @@ Quest 4 labs completed.
 <td>GSP002</td>
 <td><a href="https://www.youtube.com/watch?v=bMVBLE4dJRk">Click here</a></td>
 </tr>
-
 
 <tr>
 <td>Create and Manage Cloud Resources</td>
@@ -395,7 +380,6 @@ Quest 6 labs completed.
 <td><a href="https://www.youtube.com/watch?v=V8BK-FDiyXI">Click here</a></td>
 </tr>
 
-
 <tr>
 <td>Build and Secure Networks in Google Cloud</td>
 <td><a href="https://www.cloudskillsboost.google/course_sessions/5023266/labs/404063">Multiple VPC Networks</a></td>
@@ -417,7 +401,6 @@ Quest 6 labs completed.
 <td><a href="https://www.youtube.com/watch?v=jbW70MdoeXI">Click here</a></td>
 </tr>
 
-
 <tr>
 <td>Google Cloud Computing Foundations: Networking & Security in Google Cloud</td>
 <td><a href="https://www.cloudskillsboost.google/course_sessions/5023266/labs/404066">Create an Internal Load Balancer</a></td>
@@ -436,16 +419,12 @@ Quest 6 labs completed.
 Quest 7 labs completed.
 !-->
 
-
-
-
 <tr>
 <td>Perform Foundational Data, ML, and AI Tasks in Google Cloud</td>
 <td><a href="https://www.cloudskillsboost.google/course_sessions/4882392/labs/403552">Vertex AI: Qwik Start</a></td>
 <td>GSP917</td>
 <td><a href="https://www.youtube.com/watch?v=tx8I0N6F40E">Click here</a></td>
 </tr>
-
 
 <tr>
 <td>Perform Foundational Data, ML, and AI Tasks in Google Cloud</td>
@@ -495,14 +474,6 @@ Quest 7 labs completed.
 <td>GSP323</td>
 <td><a href="https://www.youtube.com/watch?v=tx8I0N6F40E">Click here</a></td>
 </tr>
-
-
-
-
-
-
-
-
 
 <!--
 <tr>
