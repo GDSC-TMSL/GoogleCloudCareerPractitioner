@@ -8,15 +8,15 @@ Congratulations to the following students for successfully completing the Google
 
 | No. |         Name          | No. |         Name          | No. |         Name          |
 | --- | --------------------- | --- | --------------------- | --- | --------------------- |
-|  1  |     Aashish Agarwal   | 21  |     Komal Agarwal     | 41  |     Priyanshu Dutta   |
-|  2  |     Aayush Bhardwaj   | 22  |     Kumar Aditya      | 42  |     Rahul Kundu        |
-|  3  |     Abanindra.M.Singh  | 23  |     MAHADEB KOLEY     | 43  |     Raj De Modak       |
-|  4  |     Abdul Kalam        | 24  |     Manmohan Khandelwal | 44 |   Riddhi Santra       |
-|  5  |     Abhishikta Ray     | 25  |     Md Amir Sabir     | 45  |     RIMITA SARKAR      |
-|  6  |     Aditya Kumar       | 26  |     Neha Kumari       | 46  |     Ritarshi Bandyopadhyay |
-|  7  |     Adrita Paul        | 27  |     Nilesh Choudhury | 47  |     RUDRA KADEL        |
-|  8  |     Amit Saha          | 28  |     PARNA ROY CHOWDHURY | 48 |  Saini Guha Roy       |
-|  9  |     Anik Mitra         | 29  |     Prangshu Das      | 49  |     Satyaki Dey        |
+|  1  |     Aashish Agarwal   | 21  |     Komal Agarwal     | 41  |     Doyelshree Bhui   |
+|  2  |     Aayush Bhardwaj   | 22  |     Kumar Aditya      | 42  |     Golam Ali        |
+|  3  |     Abanindra.M.Singh  | 23  |     MAHADEB KOLEY     | 43  |     Jeet Raha       |
+|  4  |     Abdul Kalam        | 24  |     Manmohan Khandelwal | 44 |   Kandarpa saha       |
+|  5  |     Abhishikta Ray     | 25  |     Md Amir Sabir     | 45  |     Subhradeep Bhattacharya      |
+|  6  |     Aditya Kumar       | 26  |     Neha Kumari       | 46  |     Sudipto Banerjee |
+|  7  |     Adrita Paul        | 27  |     Nilesh Choudhury | 47  |     Sumit Kumar        |
+|  8  |     Amit Saha          | 28  |     PARNA ROY CHOWDHURY | 48 |  Sunny Kumar      |
+|  9  |     Anik Mitra         | 29  |     Prangshu Das      | 49  |     Utsav Tiwari        |
 | 10  |     Anish Biswas       | 30  |     PRATHAMA PRATIHAR | 50  |     Sheetal Raj        |
 | 11  |     Anish Sarkar       | 31  |     PRIYABRATA MONDAL | 51  |     Shivam Mishra      |
 | 12  |     Aryak Bhattacharya | 32  |     Priyanshu Dutta   | 52  |     Shrestha Samanta   |
